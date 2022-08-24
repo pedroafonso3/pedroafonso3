@@ -1,7 +1,7 @@
 ### Hi there👋! I'm Pedro Afonso!
 
 - ✨ Welcome!!!
-- 💻 Learning new programming language :)
+- 💻 Learning new programming languages :)
 - 📖 I speak Portuguese and English.
 
 <div align="center">
