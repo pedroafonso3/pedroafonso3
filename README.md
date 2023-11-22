@@ -29,5 +29,3 @@
 <div>
 <a href="https://www.linkedin.com/in/pedro-afonso-78ab84249/" target:"_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/pedroafonso3/pedroafonso3/blob/output/github-contribution-grid-snake.svg)
