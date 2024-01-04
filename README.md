@@ -1,7 +1,6 @@
 ### Hi there👋! I'm Pedro Afonso!
 
-- ✨ Welcome!!!
-- 💻 Learning everyday :)
+- 💻 Learning everyday, my focus is offensive security :)
 - 📖 I speak Portuguese and English.
 
 <div align="center">
