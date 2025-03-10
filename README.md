@@ -1,4 +1,4 @@
-### Hi there👋! I'm Pedro Afonso!
+### Hi there 👋! I'm Pedro Afonso!
 
 - 💻 Learning everyday. :)
 - 📖 I speak Portuguese and English.
